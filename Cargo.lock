@@ -1844,6 +1844,7 @@ dependencies = [
  "tracing-subscriber",
  "trust-dns-client",
  "trust-dns-proto",
+ "trust-dns-recursor",
  "trust-dns-resolver",
  "trust-dns-server",
  "webpki-roots 0.21.1",
